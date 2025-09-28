@@ -12,8 +12,7 @@ I am a passionate web developer with strong frontend skills and currently learni
 - React
 
 **Backend (Learning):**  
-- Node.js, Express.js, EJS  
-- MongoDB
+- Node.js,Express js
 
 ---
 
